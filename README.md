@@ -54,12 +54,6 @@ The core gameplay revolves around a **risk–reward system**: attempting more fl
 
 ---
 
-## 📌 Development Notes
-
-This project was developed as part of a structured Unity learning process.  
-
----
-
 ## 🚀 Possible Improvements
 
 - Combo multiplier system for consecutive tricks to reinforce risk–reward gameplay
@@ -67,3 +61,12 @@ This project was developed as part of a structured Unity learning process.
 - Leaderboard or best-score tracking to encourage replayability
 - Additional characters with unique attributes to introduce playstyle variety
 - Multiple levels with varied slope designs and difficulty progression
+
+---
+
+## 📌 Development and Project Scope  Notes
+
+* Wallbound was developed alongside a structured Unity learning process.
+
+* This project is intentionally focused on core gameplay systems rather than full production polish.
+The goal was to design, implement, and connect fundamental mechanics such as movement, state handling, camera behavior, and game flow in a clean and extendable way.
